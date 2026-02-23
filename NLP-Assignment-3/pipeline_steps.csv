@@ -1,0 +1,11 @@
+text,cleaned_text,no_stopwords,lemmatized,label,label_encoded
+The cats are running quickly through the beautiful gardens!,the cats are running quickly through the beautiful gardens,cats running quickly beautiful gardens,cat run quick beauti garden,nature,3
+Dogs barked loudly at the strangers walking by the street.,dogs barked loudly at the strangers walking by the street,dogs barked loudly strangers walking street,dog bark loud stranger walk street,animals,0
+She was eating delicious apples and oranges from the market.,she was eating delicious apples and oranges from the market,eating delicious apples oranges market,eat delici apple orange market,food,2
+He is playing football with his friends on the ground.,he is playing football with his friends on the ground,playing football friends ground,play football friend ground,sports,4
+The children were studying mathematics and sciences in school.,the children were studying mathematics and sciences in school,children studying mathematics sciences school,child study mathematic science school,education,1
+I love cooking tasty foods for my family every evening.,i love cooking tasty foods for my family every evening,love cooking tasty foods family every evening,love cook tasty food fami every even,food,2
+They are swimming in the rivers and lakes during summers.,they are swimming in the rivers and lakes during summers,swimming rivers lakes summers,swim river lake summer,nature,3
+The engineers are designing innovative machines for industries.,the engineers are designing innovative machines for industries,engineers designing innovative machines industries,engineer design innovat machine industry,technology,5
+Students were writing essays about historical events in class.,students were writing essays about historical events in class,students writing essays historical events class,student write essay historic event clas,education,1
+Birds are flying high above the mountains and valleys.,birds are flying high above the mountains and valleys,birds flying high mountains valleys,bird fly high mountain valley,nature,3
