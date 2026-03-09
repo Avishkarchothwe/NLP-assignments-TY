@@ -1,0 +1,6 @@
+text,label,clean_text,no_stopwords,lemmatized_text,label_encoded
+I love machine learning and artificial intelligence,AI,i love machine learning and artificial intelligence,love machine learning artificial intelligence,love machine learning artificial intelligence,0
+Natural language processing is very interesting,NLP,natural language processing is very interesting,natural language processing interesting,natural language processing interesting,1
+Deep learning models require large datasets,AI,deep learning models require large datasets,deep learning models require large datasets,deep learning model require large datasets,0
+AI is transforming the technology industry,AI,ai is transforming the technology industry,ai transforming technology industry,ai transforming technology industry,0
+Text preprocessing is important in NLP,NLP,text preprocessing is important in nlp,text preprocessing important nlp,text preprocessing important nlp,1
